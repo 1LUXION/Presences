@@ -1,0 +1,29 @@
+{
+  "$schema": "https://schemas.premid.app/metadata/1.3",
+  "service": "OP.GG",
+  "author": {
+    "name": "1LUXION",
+    "id": "249098414674018304"
+  },
+  "category": "games",
+  "logo": "https://i.imgur.com/YLY20gz.png",
+  "thumbnail": "https://i.imgur.com/9oEwUFO.png",
+  "version": "1.0.0",
+  "color": "#5383e8",
+  "tags": [
+    "league-of-legends",
+    "overwatch",
+    "playerunknowns-battlegrounds",
+    "pubg",
+    "lol",
+    "tom-clancys-rainbow-six-siege"
+  ],
+  "altnames": [
+    "오피지지"
+  ],
+  "url": "www.op.gg",
+  "description": {
+    "ko_KR": "오피지지는 리그오브레전드, 오버워치, 배틀그라운드 그리고 이스포츠의 게임 데이터를 활용한 서비스를 개발하고 있습니다. 전세계 게이머들이 자신의 존재감을 게임 전적과 게임 이력으로 자유롭게 자신을 표현할 수 있는 플랫폼을 만들어 갑니다.",
+    "en": "OP.GG provides insights to gamers for League of Legends, PlayerUnknown’s Battlegrounds, Overwatch and eSports. We are building a platform where gamers can express and share their game identities and experiences."
+  }
+}
